@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+#author: isheriff@cisco.com (AKRAM SHERIFF) - 17th,November' 2023 
+""" 
+PyTorch Framework Gradients Calculation functionality working exploration 
+"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
