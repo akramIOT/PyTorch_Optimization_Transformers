@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#author: isheriff@cisco.com (AKRAM SHERIFF) on 17th,June 2023
+#author: (AKRAM SHERIFF) on 17th,June 2023
 ##  SOLVING  REGRESSION PROBLEM  WITH PYTORCH  FRAMEWORK.
 """
 """
